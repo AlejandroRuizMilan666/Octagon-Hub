@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1779538680920,
-  "index": "https://<tu-usuario>.github.io/octagon-hub/index.html",
+  "timestamp": 1779539024178,
+  "index": "/Octagon-Hub/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,19 +11,19 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://<tu-usuario>.github.io/octagon-hub/chunk-2SOK4BXC.js",
-        "https://<tu-usuario>.github.io/octagon-hub/chunk-3FOYP5MS.js",
-        "https://<tu-usuario>.github.io/octagon-hub/chunk-5P7IEU5A.js",
-        "https://<tu-usuario>.github.io/octagon-hub/chunk-NT3XIO5A.js",
-        "https://<tu-usuario>.github.io/octagon-hub/chunk-ONTI6FJ2.js",
-        "https://<tu-usuario>.github.io/octagon-hub/chunk-UHZOADP2.js",
-        "https://<tu-usuario>.github.io/octagon-hub/chunk-Y2YSXOUY.js",
-        "https://<tu-usuario>.github.io/octagon-hub/favicon.ico",
-        "https://<tu-usuario>.github.io/octagon-hub/index.html",
-        "https://<tu-usuario>.github.io/octagon-hub/main-WG75ARJK.js",
-        "https://<tu-usuario>.github.io/octagon-hub/manifest.webmanifest",
-        "https://<tu-usuario>.github.io/octagon-hub/polyfills-5CFQRCPP.js",
-        "https://<tu-usuario>.github.io/octagon-hub/styles-PIOG4KGO.css"
+        "/Octagon-Hub/chunk-2SOK4BXC.js",
+        "/Octagon-Hub/chunk-3FOYP5MS.js",
+        "/Octagon-Hub/chunk-5P7IEU5A.js",
+        "/Octagon-Hub/chunk-NT3XIO5A.js",
+        "/Octagon-Hub/chunk-ONTI6FJ2.js",
+        "/Octagon-Hub/chunk-UHZOADP2.js",
+        "/Octagon-Hub/chunk-Y2YSXOUY.js",
+        "/Octagon-Hub/favicon.ico",
+        "/Octagon-Hub/index.html",
+        "/Octagon-Hub/main-WG75ARJK.js",
+        "/Octagon-Hub/manifest.webmanifest",
+        "/Octagon-Hub/polyfills-5CFQRCPP.js",
+        "/Octagon-Hub/styles-PIOG4KGO.css"
       ],
       "patterns": []
     },
@@ -35,15 +35,15 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://<tu-usuario>.github.io/octagon-hub/assets/placeholder-fighter.svg",
-        "https://<tu-usuario>.github.io/octagon-hub/icons/icon-128x128.png",
-        "https://<tu-usuario>.github.io/octagon-hub/icons/icon-144x144.png",
-        "https://<tu-usuario>.github.io/octagon-hub/icons/icon-152x152.png",
-        "https://<tu-usuario>.github.io/octagon-hub/icons/icon-192x192.png",
-        "https://<tu-usuario>.github.io/octagon-hub/icons/icon-384x384.png",
-        "https://<tu-usuario>.github.io/octagon-hub/icons/icon-512x512.png",
-        "https://<tu-usuario>.github.io/octagon-hub/icons/icon-72x72.png",
-        "https://<tu-usuario>.github.io/octagon-hub/icons/icon-96x96.png"
+        "/Octagon-Hub/assets/placeholder-fighter.svg",
+        "/Octagon-Hub/icons/icon-128x128.png",
+        "/Octagon-Hub/icons/icon-144x144.png",
+        "/Octagon-Hub/icons/icon-152x152.png",
+        "/Octagon-Hub/icons/icon-192x192.png",
+        "/Octagon-Hub/icons/icon-384x384.png",
+        "/Octagon-Hub/icons/icon-512x512.png",
+        "/Octagon-Hub/icons/icon-72x72.png",
+        "/Octagon-Hub/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -78,28 +78,28 @@
     }
   ],
   "hashTable": {
-    "https://<tu-usuario>.github.io/octagon-hub/assets/placeholder-fighter.svg": "79dc1e05860d64969802809626df3d58d793f593",
-    "https://<tu-usuario>.github.io/octagon-hub/chunk-2SOK4BXC.js": "069b3788e74fe1893ac667ada2502dc3c1cd05df",
-    "https://<tu-usuario>.github.io/octagon-hub/chunk-3FOYP5MS.js": "1a2bd573c9b3442b6f048ce63ebd9acaa629ef83",
-    "https://<tu-usuario>.github.io/octagon-hub/chunk-5P7IEU5A.js": "c80f35912793af283e8a6c00caf2b98b66032ac2",
-    "https://<tu-usuario>.github.io/octagon-hub/chunk-NT3XIO5A.js": "9fefe1a4d77e62624d5915d4c34fb85bd669b442",
-    "https://<tu-usuario>.github.io/octagon-hub/chunk-ONTI6FJ2.js": "ee5459a370208f0d40e4eb8fccaf1c1f93253cad",
-    "https://<tu-usuario>.github.io/octagon-hub/chunk-UHZOADP2.js": "5c58f5ac2602f34fbc19f192b8d27380e1a181d2",
-    "https://<tu-usuario>.github.io/octagon-hub/chunk-Y2YSXOUY.js": "e23750a31852e3ebd88f62b19c799562beb38f73",
-    "https://<tu-usuario>.github.io/octagon-hub/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "https://<tu-usuario>.github.io/octagon-hub/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "https://<tu-usuario>.github.io/octagon-hub/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "https://<tu-usuario>.github.io/octagon-hub/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "https://<tu-usuario>.github.io/octagon-hub/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
-    "https://<tu-usuario>.github.io/octagon-hub/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "https://<tu-usuario>.github.io/octagon-hub/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "https://<tu-usuario>.github.io/octagon-hub/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "https://<tu-usuario>.github.io/octagon-hub/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "https://<tu-usuario>.github.io/octagon-hub/index.html": "e39a35782db58ae762f7a2ff144fbca63d2f3559",
-    "https://<tu-usuario>.github.io/octagon-hub/main-WG75ARJK.js": "b7986ae403e02acd92d55532f8220adec25d739a",
-    "https://<tu-usuario>.github.io/octagon-hub/manifest.webmanifest": "445399d1fb1acb19d8f1341895d36247dbc70f73",
-    "https://<tu-usuario>.github.io/octagon-hub/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
-    "https://<tu-usuario>.github.io/octagon-hub/styles-PIOG4KGO.css": "a9c7d5ea42ebaf0a7e8fe56eb3c56fb03004e718"
+    "/Octagon-Hub/assets/placeholder-fighter.svg": "79dc1e05860d64969802809626df3d58d793f593",
+    "/Octagon-Hub/chunk-2SOK4BXC.js": "069b3788e74fe1893ac667ada2502dc3c1cd05df",
+    "/Octagon-Hub/chunk-3FOYP5MS.js": "1a2bd573c9b3442b6f048ce63ebd9acaa629ef83",
+    "/Octagon-Hub/chunk-5P7IEU5A.js": "c80f35912793af283e8a6c00caf2b98b66032ac2",
+    "/Octagon-Hub/chunk-NT3XIO5A.js": "9fefe1a4d77e62624d5915d4c34fb85bd669b442",
+    "/Octagon-Hub/chunk-ONTI6FJ2.js": "ee5459a370208f0d40e4eb8fccaf1c1f93253cad",
+    "/Octagon-Hub/chunk-UHZOADP2.js": "5c58f5ac2602f34fbc19f192b8d27380e1a181d2",
+    "/Octagon-Hub/chunk-Y2YSXOUY.js": "e23750a31852e3ebd88f62b19c799562beb38f73",
+    "/Octagon-Hub/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/Octagon-Hub/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/Octagon-Hub/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/Octagon-Hub/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/Octagon-Hub/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/Octagon-Hub/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/Octagon-Hub/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/Octagon-Hub/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/Octagon-Hub/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/Octagon-Hub/index.html": "1378bf87130f4d21db60565f85cff2b550ab9efb",
+    "/Octagon-Hub/main-WG75ARJK.js": "b7986ae403e02acd92d55532f8220adec25d739a",
+    "/Octagon-Hub/manifest.webmanifest": "445399d1fb1acb19d8f1341895d36247dbc70f73",
+    "/Octagon-Hub/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
+    "/Octagon-Hub/styles-PIOG4KGO.css": "a9c7d5ea42ebaf0a7e8fe56eb3c56fb03004e718"
   },
   "navigationUrls": [
     {
