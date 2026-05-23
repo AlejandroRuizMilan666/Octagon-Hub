@@ -1,0 +1,41 @@
+.app-toolbar {
+  background: #1a0000 !important;
+  border-bottom: 2px solid #b71c1c;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 12px rgba(183, 28, 28, 0.35);
+  padding: 0 16px;
+}
+
+.toolbar-icon {
+  color: #e53935;
+  margin-right: 8px;
+  font-size: 1.6rem;
+  width: 1.6rem;
+  height: 1.6rem;
+}
+
+.toolbar-brand {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #fff;
+  text-decoration: none;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+.toolbar-spacer {
+  flex: 1;
+}
+
+.toolbar-tagline {
+  font-size: 0.75rem;
+  color: #888;
+  letter-spacing: 0.5px;
+}
+
+.app-main {
+  min-height: calc(100vh - 64px);
+  background: #121212;
+}
